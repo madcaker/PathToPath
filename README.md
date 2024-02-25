@@ -12,3 +12,6 @@ No. Dirt to Path and Path to Dirt cover forge already.
 
 *Fabric?*  
 Maybe, if I have the time. Feel free to start a PR, any help is appreciated.
+
+*Is this required client side?*  
+This mod will work purely server side, however no sound will play on clients missing the mod.
