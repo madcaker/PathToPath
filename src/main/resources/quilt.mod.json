@@ -11,9 +11,8 @@
 				"madcaker": "Owner"
 			},
 			"contact": {
-				"homepage": "https://github.com/madcaker",
-				"issues": "https://github.com/madcaker",
-				"sources": "https://github.com/madcaker"
+				"source": "https://github.com/madcaker/PathToPath",
+				"issues": "https://github.com/madcaker/PathToPath/issues"
 			},
 			"icon": "assets/pathtopath/icon.png"
 		},
